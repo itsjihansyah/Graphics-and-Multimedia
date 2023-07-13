@@ -1,5 +1,5 @@
 # Graphics-and-Multimedia
-This is the processing code of Graphics and Multimedia Big Project animation, with the title: Brushes Across History.
+This is the processing code of Graphics and Multimedia Big Project animation, with the title: Brushes Across Time.
 
 Group:
 1. Diva Ivani Arista Pangastuti (21523217)
